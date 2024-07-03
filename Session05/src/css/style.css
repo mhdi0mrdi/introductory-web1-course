@@ -1,0 +1,30 @@
+/* external */
+/* tag */
+#page-title1 {
+  color: tomato;
+  background-color: blue;
+}
+
+h1 {
+  color: green;
+  font-size: 50px;
+}
+
+h2 {
+  color: red;
+  font-size: 19px;
+}
+
+/* class */
+.f-t {
+  color: red;
+}
+
+.f-bg-t {
+  background-color: chartreuse;
+}
+
+#page-title {
+  color: tomato;
+  background-color: blue;
+}
